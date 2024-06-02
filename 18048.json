@@ -1,0 +1,43 @@
+{
+  "filename": "18048.md",
+  "report_details": [
+    {
+      "sender_address": "0x451208051a3Eee50cfd20d7a81f0C1efd3478a8C",
+      "discussion_url": "https://commonwealth.im/layerzero/discussion/18048",
+      "report_url": "https://commonwealth.im/layerzero/discussion/18048-sybil-report",
+      "timestamp": "2024-05-28 01:20:33.669000+00:00"
+    }
+  ],
+  "cluster_ids": [
+    1
+  ],
+  "reported_sybil_addresses": {
+    "18048_cluster_1": [
+      "0x03c12e6683bc893464e23364998207b6f12ffbe2",
+      "0x1b85c8f66a84a48e7db60cb915701dd768e6ebf5",
+      "0x1d981567d01645697d28d0c1c6eb7e06ed4a2e39",
+      "0x6b7ecadd2b458f2b77a50557fe231ad20a7c9846",
+      "0x6cee3a2e8e2d95b3fdf2fc6974e05c6f7e8301b4",
+      "0x778614602f591b1458ae916b9cf5bfe9d504dbaa",
+      "0x7befd9252fb9cd99d3d9c1a33a01bc9f36e9283c",
+      "0x719e17d2dc72f048c258f48331ffdc284f29c667",
+      "0x7910e22bc044041efc81ca5522a36507e307ac67",
+      "0x7c87886de6bd71e88427d2f64aaaadf8887fd1e6",
+      "0xa557f04397227948db25a3a81ece5285ec538f0e",
+      "0xaca0faae2e4f1be30b68a1a5c9b1d00be5530a5e",
+      "0x850b87d03a705cfcbd46b1be9a540ac4f553a032",
+      "0xa5442684505b8eae70d76b5f3e907856718747ef",
+      "0xbe672f5e21cdc8a0849212b1ed54d8145a52fcd4",
+      "0xb5ed77029151c44fa5d9bbe83647fdf7e989dcc4",
+      "0xaffbdb5e2fa03ab8a28fa39ebd6bfe94386137ce",
+      "0xf25dd21ec783ca3f0e426b008587821848804d25",
+      "0xda1259aa131dfe437d50072d929f925d1f2e6e89",
+      "0xf8505850b5de03a79e17844f6396d2985b1ee8ff",
+      "0xdb8eb81293ae6c6d8ff8fe3de740f38b462fb9e2",
+      "0x6084433b07d4466541af1cb5c3dfd7a50fdbb57b",
+      "0xc83a61d44474e929af19b7d2102d3bff6f1b4b2c",
+      "0xaf36e4f1faf80c2426be4566bd4adb753848b0a5",
+      "0xe0dd2b8196aa0b67a831ef7712b475e4e23ed3cb"
+    ]
+  }
+}
