@@ -1,0 +1,55 @@
+{
+  "filename": "18949.md",
+  "report_details": [
+    {
+      "sender_address": "0xAb85e9202e37C12ab8561Ff95F2322fb77955563",
+      "discussion_url": "https://commonwealth.im/layerzero/discussion/18949",
+      "report_url": "https://commonwealth.im/layerzero/discussion/18949-sybil-report",
+      "timestamp": "2024-05-28 05:15:29.951000+00:00"
+    }
+  ],
+  "cluster_ids": [
+    1
+  ],
+  "reported_sybil_addresses": {
+    "18949_cluster_1": [
+      "0x89029415178bed994e607db74db7fb4112f71a5d",
+      "0x22d46b563c23bb2abcf9878754bc74b14a896426",
+      "0xce3cdb01e9c37c637464a017d802b3e9f9d07fb7",
+      "0xd0472f21ca1d0dffc827a82099d4ef960cb8123d",
+      "0x6cc9afb0f696aa470f7d78a6a9d4ba28f3e61098",
+      "0x3135f5f5e09eac451d47f6890688ac76dd8a9b4a",
+      "0x8ac3ab6d169200b57fadc95cfcc7abcba3d1cdcf",
+      "0x8faf99cc5efe43f64aaeab8365d8f7cbf877bf13",
+      "0x4513442e1d657c65d6d150087bc6d00af7be3e39",
+      "0xd67ff6b295e7a1c5c08f0157024742c973ace35b",
+      "0x1259292a82fd66d8a9185be17a4c940ef2e10450",
+      "0x63009fee6a325ea9e1b928db984a725e2d398324",
+      "0x8ea123826022f497f7cd2384512a3aa7b8149532",
+      "0x9e08c935b94ca06cc6fa96502ceb04c5fa729da5",
+      "0xc4717723703b19f92bfb541f1c41165c52a41087",
+      "0x54365c5f47f2e51388355bd240424d12da667bdf",
+      "0x93b68c01f0bd10855e5a7b8367e3bbc0f0005df8",
+      "0x184784d696d243278362eb7c4a5228aef794d952",
+      "0xc35f4ee7b8a30913b755438ff9d6f0d4bc7d88c6",
+      "0x1a925b8c91e32efdb65ceca8b9a79ad0e67f9bed",
+      "0x7a913aca3d789af82fda8d70f67cac523f63b6b5",
+      "0x313607a36b7ae49a2e4f814dfa21ed7426aff8ae",
+      "0x4a95b97156fb325c96b8c0e9c34100b0089f523b",
+      "0x5d79689d6b0728bc40817c663f15db605a7f32c0",
+      "0xae58734c40753c7be1355164d6718b839318c92d",
+      "0x1da37cabbcb0a1a535027cd4e0c6d9c002d187d9",
+      "0xadaa14587bde004d7cbb04000a808aaad97655cd",
+      "0x053e72ec4a1d1f9305c55c629ddd5d274e1bcc75",
+      "0x1d639387c727401f66648706ab25644dcc1c2ade",
+      "0x9753ad4b4e941bea7e4e74f8a5b906a3e73a560c",
+      "0x2526265698cbb99b8dee00518692adb1871bbf1b",
+      "0xd2ca9429b959b8abb7ad8f22c28bf33d80e93e2a",
+      "0x74d169b8624a67eb79c0a100e9acde3f32db2947",
+      "0xdcdcdf3e2d3ff114a0a02d8c6fa2fe97779c04de",
+      "0xe44694ad712336c24f30f062f77f01301a279fc0",
+      "0xfe1906bfec0df5dc071bfba990d55fb10ebea6d5",
+      "0x168df7bf6a255fd1c494dd850ee76f12d9e2b577"
+    ]
+  }
+}

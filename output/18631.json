@@ -1,0 +1,19 @@
+{
+  "filename": "18631.md",
+  "report_details": [
+    {
+      "sender_address": "0xbD7F12533Ee5898De4CcAf08739136dF503F8b12",
+      "discussion_url": "https://commonwealth.im/layerzero/discussion/18631",
+      "report_url": "https://commonwealth.im/layerzero/discussion/18631-sybil-report",
+      "timestamp": "2024-05-28 02:01:12.885000+00:00"
+    }
+  ],
+  "cluster_ids": [
+    1
+  ],
+  "reported_sybil_addresses": {
+    "18631_cluster_1": [
+      "0xfb66363b637db68b57c0e10ff39e59f9ec19a7a0"
+    ]
+  }
+}

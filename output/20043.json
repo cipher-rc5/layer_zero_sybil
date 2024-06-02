@@ -1,0 +1,71 @@
+{
+  "filename": "20043.md",
+  "report_details": [
+    {
+      "sender_address": "0xed32bEB0DF7a2aB1DCA4a34007991f84FA699061",
+      "discussion_url": "https://commonwealth.im/layerzero/discussion/20043",
+      "report_url": "https://commonwealth.im/layerzero/discussion/20043-sybil-report",
+      "timestamp": "2024-05-28 09:43:56.116000+00:00"
+    }
+  ],
+  "cluster_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "reported_sybil_addresses": {
+    "20043_cluster_1": [
+      "0x6341f8a34A0a131a984e86baB7F15451e201Fb08"
+    ],
+    "20043_cluster_2": [
+      "0x6ea297B1809B54B7d53083ec07f4a6A2b54a71fc"
+    ],
+    "20043_cluster_3": [
+      "0xcA87296350CC8705dab3b8fd41C7365C407C5d09"
+    ],
+    "20043_cluster_4": [
+      "0xde91603429c54692d34DFC18d7661ad4254307C1"
+    ],
+    "20043_cluster_5": [
+      "0x1A5C6218F1B3b0409c4821e444d70d8285FCaE8A"
+    ],
+    "20043_cluster_6": [
+      "0x663bd9397E3769DCC3c0463baAbA8d26335b6F85"
+    ],
+    "20043_cluster_7": [
+      "0x18e2B4941B0Ca9A0B74B1937196551650F821df4"
+    ],
+    "20043_cluster_8": [
+      "0x59604bee5568E13a00d7Dc92eBF78d368A22e226"
+    ],
+    "20043_cluster_9": [
+      "0x7326846df88628227211E821ceE646e3206daB6A"
+    ],
+    "20043_cluster_10": [
+      "0x74bCBA9E0BFa9b6d482131C7c5F961a68D3f60C2"
+    ],
+    "20043_cluster_11": [
+      "0x41953a807a5a1dcd1f171f443aF72381fBcC89EB"
+    ],
+    "20043_cluster_12": [
+      "0xE731566227550469636E48d1f4349005a4D9ADbf"
+    ],
+    "20043_cluster_13": [
+      "0xB1FBa78da54eA383D3558F458d9cfc75B656111e"
+    ],
+    "20043_cluster_14": [
+      "0xb90DCcDCc5694938DBf2cbADd809448c74E5BCeC"
+    ]
+  }
+}

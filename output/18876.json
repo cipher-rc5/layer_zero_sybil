@@ -1,0 +1,67 @@
+{
+  "filename": "18876.md",
+  "report_details": [
+    {
+      "sender_address": "0xAb85e9202e37C12ab8561Ff95F2322fb77955563",
+      "discussion_url": "https://commonwealth.im/layerzero/discussion/18876",
+      "report_url": "https://commonwealth.im/layerzero/discussion/18876-sybil-report",
+      "timestamp": "2024-05-28 05:08:58.624000+00:00"
+    }
+  ],
+  "cluster_ids": [
+    1
+  ],
+  "reported_sybil_addresses": {
+    "18876_cluster_1": [
+      "0xf0399ab39f8c1605dae900eb78277fb805e52c8b",
+      "0x67636b069fdfa2c486390236873fb08e82b55aaa",
+      "0x0803be180c646c7f8701ee0dcd030a2e160fdbfe",
+      "0x30056e42cc9674a6cf06f109956ec475c035b406",
+      "0x15174a26f3c1826d994c146502c74142b850d46e",
+      "0x76c1c1a065df2cb663af9d060d6c678b929904bf",
+      "0x13df26eda21a8c52e660f833ac651ee6c92340f1",
+      "0xfb2513298004f5899f6b01feabb1000028322f41",
+      "0xfad7189c0150fc68eed4d986985c53a283ed8165",
+      "0xc0d10d55bb11ec7dcf34088d5dde65eeec18ba7e",
+      "0x536f097d9559c4510c7344efb0d1e032992da5d8",
+      "0x42525299e4b0083690ab612ca17427255887ea94",
+      "0x29f28d36865dd2a29afcf3dd58237e363cb2af96",
+      "0xae779b12ed6fa2017ca0807300e5612ca2be0801",
+      "0x4928ac4ffeecfbafa01b612d9045a57680dfca2a",
+      "0xc8ab804f14ed617a304174e3e5c01b1a69bafbd1",
+      "0xa06f6a024cb35ac24843159a0f1032bf54106e0a",
+      "0x111df1949038e0b1f30bcff5630082fef06e7c27",
+      "0xbe15aa4e1b03288e69c26fefac6acba4344c2405",
+      "0x56586e25b83741362dce643f077b27c418874608",
+      "0x62921f3fe624717afce6587e61ad8836f4ba74bb",
+      "0x7cb0bd818d7e60c167fa9314324a72f91752504f",
+      "0xe590579a3e1a38f34306f149680cb757e6dbecc5",
+      "0x7069d0c55af5b4afa78a1024177bccce1e42ccdf",
+      "0xa421afc7d220c65ba8af47659bb75c994203019f",
+      "0xf85932f5e03e0b2b37f1dc1d7f87ecb11a346b57",
+      "0x7e7749058c92541f9c06e80798776ef7d1aa9f90",
+      "0x27e193a6d844916f8bc3a08cb0f6c962788628dc",
+      "0xbb8b52d4eb8ca142bf316ad32c14e0c27ef9f827",
+      "0x6e33b62541a4e7562832c2d621a613d7317c9317",
+      "0xe566c85cff9e9427acce5a10e59077c08720c16e",
+      "0x9c4a982c32b334c9642da69541d9863b5a6b3617",
+      "0xf104a39da5b06df3227f902a713ecade434596e8",
+      "0x0d470b8a036d73868eedd62899934dcc753d427b",
+      "0xd3bdd570d94bbf9db3fe649fdede8e027196d22f",
+      "0x9d65dbf69e565560db21b3afe3ba90c6fe0c8e9f",
+      "0xcf9fdec6c13e6e9bab2af4b7b7777d4f269bd859",
+      "0xdee00d57f3438ef2e10b8e11ab74da33bf2567c9",
+      "0xf1bb4874323366ab7c86ec63d032cea26539672f",
+      "0xa71e1f236e5db8af1361d5e4da9ae82f65be4b03",
+      "0x12997f38ab656cf2340caba048bff29ecfdb3a78",
+      "0xe161bfa9dbc9fdf88dd1ad9f6e6e0adb3ff8cd80",
+      "0x6646e2d6c87d69e15867b06ababb96e76a8c8e02",
+      "0x49d4b124d5aaad5ddcbc6865f301a94b29a34462",
+      "0x96d32cd1691092785616b808923042dbb15e6df2",
+      "0x2442dab065b22b7a1ac317e3c1c57fb3aa1e8504",
+      "0xea9eef946e938f7ee1e7c1233ce15a0afe835a72",
+      "0x07e4af1ad1b30e77d23eb5954cba20a1675e41c3",
+      "0xec627d6ec5c01324c07f467ba6f24b8992179ff9"
+    ]
+  }
+}

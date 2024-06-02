@@ -1,0 +1,49 @@
+{
+  "filename": "18941.md",
+  "report_details": [
+    {
+      "sender_address": "0xAb85e9202e37C12ab8561Ff95F2322fb77955563",
+      "discussion_url": "https://commonwealth.im/layerzero/discussion/18941",
+      "report_url": "https://commonwealth.im/layerzero/discussion/18941-sybil-report",
+      "timestamp": "2024-05-28 05:14:59.008000+00:00"
+    }
+  ],
+  "cluster_ids": [
+    1
+  ],
+  "reported_sybil_addresses": {
+    "18941_cluster_1": [
+      "0x0333157284f169601b7e6b92f2fb814ab3ca3699",
+      "0x05be6675a3bc18a12fa0a3e07d9eeb2428f0ca25",
+      "0x0788fa59aea3483073ca800bb72aa5f45dec6e96",
+      "0x09639de848245778a7c853ef2569226a716774d8",
+      "0x021876f7d13179e9f632fd313b6c38ea2f050665",
+      "0x06983599ccc8f82712a0157eaf3170b96cfaf03d",
+      "0x07e6ff9aeede34861437625293a73a37e32948c8",
+      "0x04047cbe158abd16f75a29f57d7e4896f6f7018a",
+      "0x0864db9cb95a88ea8ba7306f7e775f63ec797588",
+      "0x05887ca0686a1c5258eb5155f3e6180bef9c8a96",
+      "0x06ad41910c71584a4e44eb8c6d0949b7059b0e9e",
+      "0x0558ce871e7938c912a7e79528ae1ce401b6f048",
+      "0x05bfe1aee8b61fd7eaeddd6c3b880a11f40e507b",
+      "0x049c0e5feadfb9e3e3d88ac5bc15560f258ca0ca",
+      "0x04fc72d6c54138f9b1e525dc2ca483adc539ab29",
+      "0x0054f83259c81af5052d88dddb981359d7371a5a",
+      "0x071ef3dd44c241d5226b1088bf82417737e2bd9f",
+      "0x05e80efc9dff5ae1630fe33fb7a458db940fddcf",
+      "0x03f698ff041b84b01857d4b69e9b9bffefe8393f",
+      "0x07bef237ba7410de4ff12a70d2e2ec212700fe87",
+      "0x04a3bdd07bdf3f968a5bfdf5042b28459516ac7b",
+      "0x0584276af0be4442c77de123abf46f4664901332",
+      "0x02492f61c1aef00dc80e8ad652c3cc02bffc7536",
+      "0x048a2a037e1f8c062dad4e3e2e5431c1a3fb5634",
+      "0x01d8fd2827b9d857de0df0e8c1c1ac666c69682a",
+      "0x00883ed4735f45323c166ec6f3fd8967f27db66a",
+      "0x049e96b1a690790979928343bd88d2ff7e787d75",
+      "0x06f43e867af10f98e29ee5193ce8fa2774015965",
+      "0x0346f37634e1f228bab8dfd6f1d696172a8583cf",
+      "0x03d5bf17e07c493c4c781e31490708d214b3a518",
+      "0x07e88da8540429cb494ff0a025fe8c397fa4ec51"
+    ]
+  }
+}
